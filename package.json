@@ -1,0 +1,11 @@
+{
+  "name": "ff-guest-generator-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FF Guest Generator API - Vercel",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {}
+}
